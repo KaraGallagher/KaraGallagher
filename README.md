@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:sparkles: I'm Kara Gallagher, a senior at Communications High School in Wall, New Jersey. I plan on combining my interests in neuroscience and computer science to explore human-computer interaction in college. Welcome to my portfolio of recent coding projects! <br/>
+:sparkles: I'm Kara Gallagher, a senior at Communications High School in Wall, New Jersey. I plan on combining my interests in neuroscience and computer science to explore human-computer interaction. Welcome to my portfolio of recent coding projects! <br/>
 :bulb: I have advanced knowledge of HTML, CSS, Java, and JavaScript. <br/>
 :iphone: I'm currently taking Advanced Java Programming, where I am designing and building GrocerEase in Android Studio. GrocerEase is an app made to address the food waste problem in my community. <br/>
 :computer: In my Advanced Web Design class, I am redesigning my town's website to make it more accessible and current. <br/>
